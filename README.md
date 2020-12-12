@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development,C++,DBMS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishalSawai0](https://github.com/vishal-sawai)
+- 👨‍💻 All of my projects are available at [https://github.com/vishal-sawai](https://github.com/vishal-sawai)
 
 - 💬 Ask me about **Programming, Web design,Tech related**
 
