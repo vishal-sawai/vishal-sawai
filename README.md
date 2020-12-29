@@ -27,5 +27,5 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs-code" width="40" height="40"/> </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-sawai&show_icons=true&locale=en" alt="vishal-sawai" /></p>
+<img align="right" src="developer.gif" height="300px" width="500px"/>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishal-sawai&show_icons=true&locale=en" alt="vishal-sawai" /></p>
