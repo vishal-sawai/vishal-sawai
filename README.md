@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Sawai</h1>
 <p align="left"> <a href="https://twitter.com/vishaldnynasha1" target="blank"><img src="https://img.shields.io/twitter/follow/vishaldnynasha1?logo=twitter&style=for-the-badge" alt="vishaldnynasha1" /></a> </p>
 <img align="right" src="developer.gif" width="490" height="320"/>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishal-sawai&show_icons=true&locale=en" alt="vishal-sawai" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishal-sawai&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="vishal-sawai" /></p>
 
 - 🌱 I’m currently learning **Web Development,C++,DBMS**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **vishalsawai17252@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny**
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vishalsawai0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishalsawai0" height="30" width="40" /></a>
