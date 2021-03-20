@@ -15,9 +15,7 @@
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vishalsawai0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="vishalsawai0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishal-sawai-5462b9186/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal-sawai-5462b9186/" height="30" width="40" /></a>
-<a href="https://instagram.com/vishal_sawai_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vishal_sawai_/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vishalsawai17252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishalsawai17252" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@vishalsawai17252" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@vishalsawai17252" height="30" width="40" /></a>
 </p>
