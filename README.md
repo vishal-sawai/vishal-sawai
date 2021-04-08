@@ -3,7 +3,7 @@
 <img align="right" src="developer.gif" width="490" height="320"/>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vishal-sawai&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"" alt="vishal-sawai" /></p>
 
-- 🌱 I’m currently learning **Web Development,C++,DBMS,Android Development**
+- 🌱 I’m currently learning **programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishal-sawai](https://github.com/vishal-sawai)
 
