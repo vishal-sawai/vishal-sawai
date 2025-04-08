@@ -15,7 +15,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
 ### 💡 About Me:
 - 🔭 I'm a **Full Stack Developer** crafting responsive and scalable web experiences.
